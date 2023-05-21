@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$Yj6FQhHnu431KXbfatZWp.mdtCD4mCY0NMR7Lv9LyqKCajiRNy5hm",
+      "id": 1
+    },
+    {
+      "email": "b@gmail.com",
+      "password": "$2a$10$A//hWr3uUroilSCArDMDweAPZDpm0z8ErTdZufi5zKT2spe2AMnyK",
+      "id": 2
+    }
+  ],
+  "learnhttp": {
+    "content": "Hello World!"
+  },
+  "journals": []
+}
